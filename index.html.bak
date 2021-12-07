@@ -5,11 +5,14 @@
 </head>
 <<<<<<< HEAD
 <body>
-  <p>First p</p>
+  <p>First p</p>  
+  <p>This is a paragraph.</p>
+  <p>This is a another paragraph.</p>
 =======
-<body>    
+<body>   
+	<h1>Welcome in ABB</h1>
     <p>This is a paragraph.</p>
     <p>This is a another paragraph.</p>
->>>>>>> 0598293 (add paragraphs)
+>>>>>>> c306e84 (add welcome info)
 </body>
 </html>
