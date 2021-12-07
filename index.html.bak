@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<<<<<<< HEAD
+<body>
+  <h1>Welcome in ABB</h1>
+  <p>First p</p>  
+  <p>This is a paragraph.</p>
+  <p>This is a another paragraph.</p>
+=======
+<body>    
+    <p>I am Ulvi</p>
+    <p>This is a paragraph.</p>
+    <p>This is a another paragraph.</p>
+>>>>>>> a14509b (Update index.html)
+</body>
+</html>
