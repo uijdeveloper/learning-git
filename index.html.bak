@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<<<<<<< HEAD
+<body>
+  <p>First p</p>
+=======
+<body>    
+    <p>This is a paragraph.</p>
+    <p>This is a another paragraph.</p>
+>>>>>>> 0598293 (add paragraphs)
+</body>
+</html>
